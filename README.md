@@ -1,5 +1,3 @@
-Here’s a polished, generic README.md you can drop in as-is 👇
-
 # GitLab Merge Request Review Duration Reporter
 
 This script exports **merged GitLab Merge Requests (MRs)** for selected repositories over a date range and calculates:
